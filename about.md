@@ -22,7 +22,7 @@ image: /assets/img/blog/hydejack-8.png
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
-![Screenshot](assets/img/blog/hydejack.png){:.lead}
+![Screenshot](assets/img/blog/hydejack-8.png){:.lead}
 Hydejack's cover page on a variety of screens.
 {:.figure}
 
