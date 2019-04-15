@@ -45,7 +45,7 @@ author:
   name:                Harry010117
   email:               harry010117@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             @sigong_joa
+  # twitter:             @sigong_joa
 
 # Add links to the sidebar.
 menu:
