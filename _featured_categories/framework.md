@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Frontend
-slug: Frontend
+title: Framework
+slug: Framework
 menu: true
 order: 1
 description: >
