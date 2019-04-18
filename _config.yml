@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://Harry010117.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,8 +24,7 @@ title:                 Harry010117
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  Newbie Frontend Developer
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -41,17 +40,23 @@ logo:                  /assets/icons/icon-1.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                한진만
+  email:               harry010117@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             sigong_joa
 
 # Add links to the sidebar.
 menu:
+  - title:             UI/UX
+    url:               /UI-UX/
   - title:             Frontend
     url:               /frontend/
   - title:             Framework
     url:               /framework/
+  - title:             Portfolio
+    url:               /portfolio/
+  - title:             Others
+    url:               /others/
   - title:             About
     url:               /about/
 
