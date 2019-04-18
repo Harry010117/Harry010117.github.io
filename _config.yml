@@ -306,8 +306,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://twitter.com/sigong_joa
-#     - https://github.com/harry010117
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Other Plugins

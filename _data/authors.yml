@@ -33,9 +33,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         sigong_joa
+    github:          Harry010117
+    email:           harry010117@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -54,13 +54,13 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
+    steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    # stackoverflow:   <number/username>
+    stackoverflow:   users/9891215
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
