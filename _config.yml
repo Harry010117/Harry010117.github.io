@@ -24,7 +24,7 @@ title:                 Harry010117
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Newbie Frontend Developer
+    Newbie Frontend Developer
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -140,7 +140,7 @@ defaults:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
- disqus:                https-harry010117-github-io
+  disqus:                https-harry010117-github-io
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
@@ -306,8 +306,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/sigong_joa
+#     - https://github.com/harry010117
 
 
 # Other Plugins
