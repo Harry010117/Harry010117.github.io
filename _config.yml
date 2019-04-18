@@ -16,7 +16,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Harry010117
@@ -48,10 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Frontend
+  - title:             UI/UX
+    url:               /UI-UX/
+- title:               Frontend
     url:               /frontend/
   - title:             Framework
     url:               /framework/
+- title:               Portfolio
+    url:               /portfolio/
+- title:               Others
+    url:               /others/
   - title:             About
     url:               /about/
 
@@ -79,7 +85,7 @@ paginate_path:         /blog/page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(38,139,210)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.

@@ -7,5 +7,5 @@ order: 1
 description: >
   Node.js / vue.js / electron 
   JavaScript Frameworks
-accent_color: rgb(63,209,229)
+accent_color: rgb(38,139,210)
 ---
