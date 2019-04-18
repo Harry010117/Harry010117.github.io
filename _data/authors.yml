@@ -36,6 +36,7 @@ author1:
     twitter:         sigong_joa
     github:          Harry010117
     email:           harry010117@gmail.com
+    stackoverflow:   users/9891215
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -60,7 +61,6 @@ author1:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    stackoverflow:   users/9891215
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
