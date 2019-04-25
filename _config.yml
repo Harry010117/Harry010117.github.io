@@ -47,8 +47,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             UI/UX
-    url:               /ui-ux/
   - title:             Frontend
     url:               /frontend/
   - title:             Framework
