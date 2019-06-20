@@ -1,6 +1,6 @@
 ---
 layout: list
-title: others
+title: Others
 slug: Others
 menu: true
 order: 1

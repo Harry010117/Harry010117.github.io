@@ -1,7 +1,7 @@
 ---
 layout: list
-title: ideas
-slug: Ideas
+title: Ideas
+slug: ideas
 menu: true
 order: 1
 description: >
