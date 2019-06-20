@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Ideas
-slug: ideas
+slug: Ideas
 menu: true
 order: 1
 category:ideas

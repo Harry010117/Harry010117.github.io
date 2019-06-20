@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Others
-slug: others
+slug: Others
 menu: true
 order: 1
 category:others
