@@ -1,7 +1,7 @@
 ---
 title: frontend_test
 image: /assets/img/blog/wade-lambert.jpg
-category: frontend
+category: Frontend
 description: >
   frontend
 ---
