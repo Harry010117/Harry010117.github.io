@@ -47,12 +47,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Frontend
-    url:               /frontend/
-  - title:             Framework
-    url:               /framework/
-  - title:             Portfolio
-    url:               /portfolio/
+  - title:             Study
+    url:               /study/
+  - title:             Ideas
+    url:               /ideas/
+  - title:             Project
+    url:               /project/
   - title:             Others
     url:               /others/
   - title:             About

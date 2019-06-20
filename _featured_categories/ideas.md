@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Others
-slug: Others
+title: Ideas
+slug: Ideas
 menu: true
 order: 1
 description: >
-  Others
+  생각 정리
 accent_color: rgb(38,139,210)
 ---
