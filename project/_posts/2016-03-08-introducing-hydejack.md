@@ -1,10 +1,10 @@
 ---
-title: framework_test
+title: project_test
 image: /assets/img/blog/wade-lambert.jpg
-category: Framework
+category: Project
 comments: true
 description: >
-  framework
+  project
 ---
 
-framework_test_post
+project_test_post

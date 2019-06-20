@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Portfolio
-slug: Portfolio
+title: study
+slug: Study
 menu: true
 order: 1
 description: >
-  my Portfolio
+	공부한것들  
 accent_color: rgb(38,139,210)
 ---
