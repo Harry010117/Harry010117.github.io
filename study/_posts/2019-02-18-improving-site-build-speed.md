@@ -1,10 +1,10 @@
 ---
-title: frontend_test
+title: Study_test
 image: /assets/img/blog/wade-lambert.jpg
-category: Frontend
+category: Study
 comments: true
 description: >
-  frontend
+  Study
 ---
 
-frontend_test_post
+Study_test_post
