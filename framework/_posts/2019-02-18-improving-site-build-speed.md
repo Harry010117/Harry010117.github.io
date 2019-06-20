@@ -1,6 +1,7 @@
 ---
 title: Improving Hydejack's Build Speed
 image: /assets/img/blog/wade-lambert.jpg
+category: framework
 description: >
   Hydejack 8.4.0 introduces new options to bring Hydejack's build time in line with other Jekyll themes. 
 ---

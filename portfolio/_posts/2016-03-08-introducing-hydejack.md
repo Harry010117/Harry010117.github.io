@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing Hydejack (v3)
+category: portfolio
 description: >
   Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme,
   stolen by [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
