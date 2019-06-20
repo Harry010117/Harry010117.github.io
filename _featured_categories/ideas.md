@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Ideas
+title: ideas
 slug: Ideas
 menu: true
 order: 1

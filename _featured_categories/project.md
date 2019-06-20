@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Project
+title: project
 slug: Project
 menu: true
 order: 1
