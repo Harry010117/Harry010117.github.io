@@ -2,7 +2,7 @@
 title: framework_test
 image: /assets/img/blog/wade-lambert.jpg
 category: Framework
-comment:true
+comments: true
 description: >
   framework
 ---

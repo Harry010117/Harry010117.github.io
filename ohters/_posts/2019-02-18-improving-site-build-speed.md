@@ -2,7 +2,7 @@
 title: others_test
 image: /assets/img/blog/wade-lambert.jpg
 category: others
-comment:true
+comments: true
 description: >
   others
 ---

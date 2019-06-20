@@ -2,7 +2,7 @@
 title: portfolio_test
 image: /assets/img/blog/wade-lambert.jpg
 category: Portfolio
-comment:true
+comments: true
 description: >
   portfolio
 ---
